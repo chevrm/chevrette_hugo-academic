@@ -31,7 +31,7 @@ publication_types:
 - "2"
 publishDate: "2017-11-07T00:00:00Z"
 slides: ""
-summary: Actinobacteria from the seq squirt microbiome make the previously-undescribed antibiotic keyicin only in cocultire with co-isolates from the same microbiome.
+summary: Actinobacteria from the sea squirt microbiome make the previously-undescribed antibiotic keyicin only in cocultire with a co-isolate.
 tags:
 - actinobacteria
 title: Coculture of marine invertebrate-associated bacteria and interdisciplinary technologies enable biosynthesis and discovery of a new antibiotic, keyicin

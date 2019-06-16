@@ -47,6 +47,7 @@ slides: ""
 summary: Insect-associated _Streptomyces_ are a source of potent antimicrobials, including the previously-undescribed antifungal cyphomycin.
 tags:
 - antibiotics
+- actinobacteria
 title: The antimicrobial potential of Streptomyces from insect microbiomes
 url_code: ""
 url_dataset: ""

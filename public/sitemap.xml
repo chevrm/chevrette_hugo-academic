@@ -390,6 +390,40 @@
   </url>
   
   <url>
+    <loc>/authors/deepa-acharya/</loc>
+    <lastmod>2018-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/doug-r-braun/</loc>
+    <lastmod>2018-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/braun_2018_wmma1996/</loc>
+    <lastmod>2018-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/scott-r-rajski/</loc>
+    <lastmod>2018-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/braun_2018_wmma184/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kim-b-ritchie/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/chad-l-myers/</loc>
     <lastmod>2017-11-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -404,12 +438,6 @@
   <url>
     <loc>/publication/adnani_2017_keyicin/</loc>
     <lastmod>2017-11-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/doug-r-braun/</loc>
-    <lastmod>2017-11-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -438,12 +466,6 @@
   
   <url>
     <loc>/authors/qing-yu/</loc>
-    <lastmod>2017-11-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/scott-r-rajski/</loc>
     <lastmod>2017-11-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -664,6 +686,16 @@
     <loc>/authors/jason-c-kwan/</loc>
     <lastmod>2017-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/adnani_2017_wmmb235/</loc>
+    <lastmod>2017-01-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/adnani_2016_wmma185/</loc>
+    <lastmod>2016-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>

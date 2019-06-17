@@ -21,7 +21,7 @@ authors:
 - Marnix H Medema
 date: "2017-07-03T00:00:00Z"
 doi: "10.1093/nar/gkx319"
-featured: false
+featured: true
 image:
   caption: ""
   focal_point: ""
@@ -46,13 +46,3 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
-
-#{{% alert note %}}
-#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-#{{% /alert %}}
-
-#{{% alert note %}}
-#Click the *Slides* button above to demo Academic's Markdown slides feature.
-#{{% /alert %}}
-
-#Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

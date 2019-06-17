@@ -27,7 +27,7 @@ interests:
 name: Marc G Chevrette
 organizations:
 - name: Wisconsin Institute for Discovery
-  url: "https://discovery.wisc.edu"
+  url: "https://wid.wisc.edu/"
 role: Postdoctoral Associate - [Handelsman Lab](https://handelsmanlab.discovery.wisc.edu/ "Handelsman Lab")
 social:
 - icon: google-scholar
@@ -54,6 +54,6 @@ user_groups:
 - Visitors
 ---
 
-Marc Chevrette, PhD is a Postdoctoral Associate in the laboratory of Jo Handelsman. His research interests include the genomics and genetics of secondary (specialized) metabolism, microbial chemical diversity, interspecies interactions, evolution, and computational biolgy, particularly towards the discovery of new antimicrobials and other therapeutics.
+Marc Chevrette, PhD is a Postdoctoral Associate in the [Handelsman Lab](https://handelsmanlab.discovery.wisc.edu/ "Handelsman Lab") at the [Wisconsin Institute for Discovery](https://wid.wisc.edu/ "Wisconsin Institute for Discovery"). His research interests include the genomics and genetics of secondary (specialized) metabolism, microbial chemical diversity, interspecies interactions, evolution, and computational biolgy, particularly towards the discovery of new antimicrobials and other therapeutics.
 
 Marc has done extensive research and training at the intersection of genomics, genetics, and microbial chemistry. His doctoral studies at the University of Wisconsin-Madison in the [Currie Lab](https://currielab.wisc.edu/ "Currie Lab") focused on how genomics and metabolomics can be used to mine microbiome interactions for antibiotic secondary metabolites. Prior to UW, Marc was the Head of Experimental Genomics at Warp Drive Bio (now [Ginkgo Bioworks](https://www.ginkgobioworks.com/ "Ginkgo Bioworks")) and an Associate at the [Broad Institute of MIT & Harvard](https://www.broadinstitute.org/ "Broad Institute of MIT & Harvard"). 

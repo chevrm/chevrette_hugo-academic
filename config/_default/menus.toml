@@ -30,7 +30,7 @@
 
 [[main]]
   name = "CV"
-  url = "https://github.com/chevrm/cv/raw/master/ChevretteCV.pdf"
+  url = "https://github.com/chevrm/cv/blob/master/ChevretteCV.pdf"
   weight = 55
 
 

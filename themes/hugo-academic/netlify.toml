@@ -17,7 +17,10 @@
 #[context.branch-deploy]
 #  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL --themesDir ../../"
 
+<<<<<<< HEAD
 # Below from RS
+=======
+>>>>>>> 7cf578928d777d41fd14d8d075cee44a5e8528e3
 [build]
   publish = "public"
   command = "hugo"

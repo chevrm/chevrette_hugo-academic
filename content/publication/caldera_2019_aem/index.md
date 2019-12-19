@@ -13,7 +13,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Applied and Environmental Microbiology* (85)'
+publication: '*Applied and Environmental Microbiology, 85*(24), e01580-19'
 publication_short: ""
 publication_types:
 - "2"

@@ -1,112 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Marc G Chevrette</title>
+    <title>Marc G Chevrette</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Marc G Chevrette</description>
+    <description>Recent content on Marc G Chevrette</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>/tags/</link>
-      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+      <title>Directed evolution reveals the functional sequence space of an adenylation domain specificity code</title>
+      <link>/publication/throckmorton_2019_acscb/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/</guid>
+      <guid>/publication/throckmorton_2019_acscb/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>evolution</title>
-      <link>/tags/evolution/</link>
-      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+      <title>Competition among nasal bacteria suggests a role for siderophore-mediated interactions in shaping the human nasal microbiota</title>
+      <link>/publication/stubbendieck_2018_aem/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/evolution/</guid>
+      <guid>/publication/stubbendieck_2018_aem/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>actinomyces</title>
-      <link>/tags/actinomyces/</link>
-      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+      <title>Functional metagenomics reveals abundant polysaccharide-degrading gene clusters and cellobiose utilization pathways within gut microbiota of a wood-feeding higher termite</title>
+      <link>/publication/liu_2018_isme/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/actinomyces/</guid>
+      <guid>/publication/liu_2018_isme/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>actinobacteria</title>
-      <link>/tags/actinobacteria/</link>
-      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      <title>Draft genome sequence of Micromonospora sp. strain WMMA1996, a marine sponge-associated bacterium</title>
+      <link>/publication/braun_2018_wmma1996/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/actinobacteria/</guid>
+      <guid>/publication/braun_2018_wmma1996/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>microbiome</title>
-      <link>/tags/microbiome/</link>
-      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      <title>Complete genome sequence of Dietzia sp. strain WMMA184, a marine coral-associated bacterium</title>
+      <link>/publication/braun_2018_wmma184/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/microbiome/</guid>
+      <guid>/publication/braun_2018_wmma184/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>antibiotics</title>
-      <link>/tags/antibiotics/</link>
-      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/antibiotics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>evolution of biosynthesis</title>
-      <link>/tags/evolution-of-biosynthesis/</link>
-      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/evolution-of-biosynthesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>software</title>
-      <link>/tags/software/</link>
+      <title>Complexity of complement resistance factors expressed by Acinetobacter baumannii needed for survival in human serum</title>
+      <link>/publication/sanchez-larrayoz_ji_2017/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/software/</guid>
+      <guid>/publication/sanchez-larrayoz_ji_2017/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Interpreting microbial biosynthesis in the genomic age - Biological and practical considerations</title>
+      <link>/publication/miller_2017_biosyn/</link>
+      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
+      <guid>/publication/miller_2017_biosyn/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Complete genome sequence of Rhodococcus sp. strain WMMA185, a marine sponge-associated bacterium</title>
+      <link>/publication/adnani_2016_wmma185/</link>
+      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>metagenomics</title>
-      <link>/tags/metagenomics/</link>
-      <pubDate>Wed, 29 Apr 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/metagenomics/</guid>
+      <guid>/publication/adnani_2016_wmma185/</guid>
       <description></description>
     </item>
     

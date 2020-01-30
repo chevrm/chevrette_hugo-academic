@@ -17,7 +17,7 @@ publication_types:
 - "2"
 publishDate: "2020-01-24T00:00:00Z"
 slides: ""
-summary: Perspective on the 2019 Science paper from Donia et al.
+summary: Viewpoint article on the 2019 Science paper from Donia et al.
 tags:
 - metagenomics
 - microbiome

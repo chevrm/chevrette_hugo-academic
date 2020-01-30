@@ -1,0 +1,11 @@
+name = "Chevrette"
+
+light = true
+
+primary = "#395a9a" ## hyperlinks and icons
+menu_primary = "#395a9a" ## menu background
+menu_text = "#ffffff"
+menu_text_active = "#c3b18c" ## hover cover for menu
+menu_title = "#ffffff"
+home_section_odd = "rgb(255, 255, 255)" ## alternating background sections, expects rgb
+home_section_even = "rgb(247, 247, 247)"

@@ -23,7 +23,7 @@ summary: Antibiotic-producing symbionts conform to the geographic mosaic theory 
 tags:
 - evolution
 - actinomyces
-title: Local Adaptation of Bacterial Symbionts within a Geographic Mosaic of Antibiotic Coevolution
+title: Local adaptation of bacterial symbionts within a geographic mosaic of antibiotic coevolution
 url_code: ""
 url_dataset: ""
 url_pdf: "files/Caldera_aem_2019.pdf"

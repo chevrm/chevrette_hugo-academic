@@ -21,7 +21,7 @@ slides: ""
 summary: Perspective on the technical (sequencing and assembly) and biological (genome architecture) aspects of microbial biosynthesis.
 tags:
 - 
-title: Interpreting microbial biosynthesis in the genomic age - Biological and practical considerations
+title: Interpreting microbial biosynthesis in the genomic age - biological and practical considerations
 url_code: ""
 url_dataset: ""
 url_pdf: "files/Miller_MarDrugs_2017.pdf"

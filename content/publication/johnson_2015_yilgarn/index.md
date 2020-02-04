@@ -22,7 +22,7 @@ slides: ""
 summary: Shotgun metagenomic sequencing gives biological insights into an extreme environment similar to the Martian surface.
 tags:
 - metagenomics
-title: Insights from the metagenome of an acid salt lake - The role of biology in an extreme depositional environment
+title: Insights from the metagenome of an acid salt lake - the role of biology in an extreme depositional environment
 url_code: ""
 url_dataset: ""
 url_pdf: "files/Johnson_PLOSONE_2015.pdf"

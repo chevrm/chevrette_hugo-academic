@@ -25,7 +25,7 @@ slides: ""
 summary: Perspective on how evolutionary forces shape secondary metabolism
 tags:
 - evolution
-title: Evolutionary Dynamics of Natural Product Biosynthesis in Bacteria
+title: Evolutionary dynamics of natural product biosynthesis in bacteria
 url_code: ""
 url_dataset: ""
 url_pdf: "files/Chevrette_npr_2020.pdf"

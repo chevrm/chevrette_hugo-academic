@@ -35,24 +35,124 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/braun-doug-r./</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/bugni-tim-s./</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/chanana-shaurya/</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/currie-cameron-r./</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/ge-ying/</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/guzei-ilia-a./</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/zhang_2020_orglett/</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/rajski-scott-r./</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/thomas-michael-g./</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/wyche-thomas-p./</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/yan-jia-xuan/</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/zhang-fan/</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/zhu-yanlong/</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/actinobacteria/</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -63,23 +163,6 @@
   
   <url>
     <loc>/authors/handelsman-jo/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-01-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -150,12 +233,6 @@
   </url>
   
   <url>
-    <loc>/authors/currie-cameron-r./</loc>
-    <lastmod>2019-11-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/publication/caldera_2019_aem/</loc>
     <lastmod>2019-11-27T00:00:00+00:00</lastmod>
   </url>
@@ -202,12 +279,6 @@
   </url>
   
   <url>
-    <loc>/tags/actinobacteria/</loc>
-    <lastmod>2019-09-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/chawdhury-ratul/</loc>
     <lastmod>2019-08-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -237,12 +308,6 @@
   </url>
   
   <url>
-    <loc>/authors/thomas-michael-g./</loc>
-    <lastmod>2019-08-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/throckmorton-kurt/</loc>
     <lastmod>2019-08-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -255,18 +320,6 @@
   </url>
   
   <url>
-    <loc>/authors/braun-doug-r./</loc>
-    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/bugni-tim-s./</loc>
-    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/harper-mary-kay/</loc>
     <lastmod>2019-08-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -275,12 +328,6 @@
   <url>
     <loc>/publication/yan_2019_orglett/</loc>
     <lastmod>2019-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/yan-jia-xuan/</loc>
-    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

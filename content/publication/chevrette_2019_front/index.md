@@ -24,7 +24,7 @@ slides: ""
 summary: How well do 16S and other taxonomic measures track with metabolic traits in Streptomyces?
 tags:
 - actinobacteria
-title: Taxonomic and Metabolic Incongruence in the Ancient Genus Streptomyces
+title: Taxonomic and metabolic incongruence in the ancient genus Streptomyces
 url_code: ""
 url_dataset: ""
 url_pdf: "files/Chevrette_front_2019.pdf"

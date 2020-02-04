@@ -21,7 +21,7 @@ summary: Viewpoint article on the 2019 Science paper from Donia et al.
 tags:
 - metagenomics
 - microbiome
-title: From metagenomes to molecules - Innovations in functional metagenomics unlock hidden chemistry in the human microbiome
+title: From metagenomes to molecules - innovations in functional metagenomics unlock hidden chemistry in the human microbiome
 url_code: ""
 url_dataset: ""
 url_pdf: "files/Chevrette_Biochem_2020.pdf"

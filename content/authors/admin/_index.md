@@ -10,7 +10,7 @@ education:
   - course: MSc in Genetics
     institution: University of Wisconsin-Madison
     year: 2017
-  - course: ALM (MA) in Biotechnolgy (Bioengineering)    
+  - course: ALM (MA) in Biotechnology (Bioengineering)    
     institution: Harvard University Extension
     year: 2015
   - course: BSc in Molecular Biology & Bioinformatics
